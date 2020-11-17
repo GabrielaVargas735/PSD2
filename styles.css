@@ -397,3 +397,62 @@ h1{
     height: 190px;
     left: 720px;
 }
+/*Special Offer*/ 
+#fondo5{
+    width: 72.50%;
+    height: 63.3%;
+    background-color: #f9f9f9;
+    position: absolute;
+    top:4420px;
+}
+#title9{
+    color: black;
+    font-size: 2rem;
+    top: 4480px;
+    position: absolute;
+    z-index: 2;
+    left: 510px;
+}
+#special{
+    font-size: 1rem;
+    color: #828282;
+    top: 4555px;
+    position: absolute;
+    z-index: 2;
+    left: 370px;
+    text-align: center;
+}
+#pink{
+    background-color: #e02d74;
+    border: 0;
+    border-radius: 2px 2px 2px 2px;
+    width: 210px;
+    height: 60px;
+    color: white;
+    top:4650px;
+    position: absolute;
+    margin-left: 350px;
+    z-index: 2;
+    text-transform: uppercase;
+    font-size: 1rem;
+}
+/*Footer*/
+#footer{
+    font-size: 1rem;
+    position: absolute;
+    top: 4800px;
+    color: #8e9196;
+    padding: 10px;
+    left: 145px;
+    
+}
+#footer a{
+    text-decoration-line: underline;
+}
+#iconos{
+    font-size: 1rem;
+    position: absolute;
+    top: 4820px;
+    color: #8e9196;
+    right: 200px;
+}
