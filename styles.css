@@ -75,6 +75,7 @@ h1{
     margin-left: 410px;
     border: 0;
     border-radius: 2px 2px 2px 2px;
+    text-transform: uppercase;
 }
 /* Free Book Mock-Up */
 #fondo2{
@@ -120,6 +121,7 @@ h1{
     margin-left: 390px;
     border: 0;
     border-radius: 2px 2px 2px 2px;
+    text-transform: uppercase;
 }
 /*Our Newsroom*/
 #fondo3{
@@ -162,6 +164,7 @@ h1{
     position: absolute;
     margin-left: 410px;
     z-index: 2;
+    text-transform: uppercase;
 }
 /*Left*/
 #mock-up{
@@ -316,7 +319,7 @@ h1{
 /*Our Galery*/
 #black{
     width: 72.50%;
-    height: 100%;
+    height: 820px;
     top: 3600px;
     position: absolute;
     background-color: #292c34;
@@ -338,32 +341,59 @@ h1{
     left: 370px;
     text-align: center;
 }
+#white{
+    background-color: white;
+    border: 0;
+    border-radius: 2px 2px 2px 2px;
+    width: 120px;
+    height: 40px;
+    color: black;
+    top:4270px;
+    position: absolute;
+    margin-left: 390px;
+    z-index: 2;
+    text-transform: uppercase;
+}
 /*Imagenes*/
 #almohada{
     position: absolute;
     top: 3830px;
-    width: 160px;
-    height: 160px;
-    left: 360px;
+    width: 190px;
+    height: 190px;
+    left: 320px;
 }
 #vista-mar{
     position: absolute;
     top: 3830px;
-    width: 160px;
-    height: 160px;
-    left: 530px;
+    width: 190px;
+    height: 190px;
+    left: 520px;
 }
 #planta3{
     position: absolute;
     top: 3830px;
-    width: 160px;
-    height: 160px;
-    left: 700px;
+    width: 190px;
+    height: 190px;
+    left: 720px;
 }
 #mar{
     position: absolute;
-    top:4003px;
-    width: 160px;
-    height: 160px;
-    left: 360px;
+    top:4033px;
+    width: 190px;
+    height: 190px;
+    left: 320px;
+}
+#espuma{
+    position: absolute;
+    top:4033px;
+    width: 190px;
+    height: 190px;
+    left: 520px;
+}
+#playa{
+    position: absolute;
+    top:4033px;
+    width: 190px;
+    height: 190px;
+    left: 720px;
 }
