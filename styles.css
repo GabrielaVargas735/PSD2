@@ -47,7 +47,7 @@ li + li{
 h1{
     top: 580px;
     position: absolute;
-    margin-left: 300px;
+    margin-left: 275px;
     font-size: 2.5rem;
     color: #292c34;
 }
@@ -55,7 +55,7 @@ h1{
     position: absolute;
     font-size: 1rem;
     top: 660px;
-    margin-left: 280px;
+    margin-left: 245px;
     text-align: center;
     line-height: 25px;
     color: #888888;
@@ -75,13 +75,146 @@ h1{
     border: 0;
     border-radius: 2px 2px 2px 2px;
 }
-
 /* Free Book Mock-Up */
+#fondo2{
+    width: 72.5%;
+    height: 70.27%;
+    background-color: #f9f9f9;
+    top: 1200px;
+    position: absolute;
+}
 #img2{
     width: 72.5%;
     height: 60.5%;
     top: 890px;
     position: absolute;
 }
-
-
+#title2{
+    position: absolute;
+    top: 1290px;
+    font-size: 1.9rem;
+    margin-left: 320px;
+}
+#free-book{
+    position: absolute;
+    font-size: 1rem;
+    top: 1370px;
+    margin-left: 240px;
+    text-align: center;
+    line-height: 25px;
+    color: #888888;
+}
+#free-book a{
+    color: #4cb1ec;
+    text-decoration-line: underline;
+    font-weight: bold;
+}
+#yellow{
+    width: 120px;
+    height: 40px;
+    background-color: #f5ba1c;
+    color: white;
+    top: 1520px;
+    position: absolute;
+    margin-left: 390px;
+    border: 0;
+    border-radius: 2px 2px 2px 2px;
+}
+/*Our Newsroom*/
+#fondo3{
+    width: 72.5%;
+    height: 70.27%;
+    background-color: #f9f9f9;
+    top: 1640px;
+    position: absolute;
+}
+#title3{
+    position: absolute;
+    top: 1690px;
+    font-size: 1.9rem;
+    margin-left: 340px;
+}
+#newsroom{
+    position: absolute;
+    font-size: 1rem;
+    top: 1770px;
+    margin-left: 240px;
+    text-align: center;
+    line-height: 25px;
+    color: #888888;
+}
+/*Left*/
+#mock-up{
+    width: 37.25%;
+    height: 51.14%;
+    z-index: 1;
+    position: absolute;
+    top: 1870px;
+    margin-left: 0px;
+}
+#light-blue{
+    background-color: #a4d3f3;
+    width: 37.25%;
+    height: 73.14%;
+    z-index: 1;
+    position: absolute;
+    top: 2165px;
+}
+#public{
+    position: absolute;
+    font-size: 1.3rem;
+    top: 2305px;
+    margin-left: 130px;
+    text-align: right;
+    line-height: 25px;
+    color: white;
+    z-index: 1;
+    line-height: 32px;
+}
+#title4{
+    position: absolute;
+    top: 2215px;
+    font-size: 1.6rem;
+    margin-left: 90px;
+    color: white;
+    font-weight: bold;
+    text-align: right;
+    z-index: 1;
+}
+#revista{
+    width: 37.25%;
+    height: 49.14%;
+    z-index: 1;
+    position: absolute;
+    top:2588px;
+    margin-left: 0px;
+}
+#torquoise{
+    background-color: #76b3dd;
+    width: 37.25%;
+    height: 73.14%;
+    z-index: 1;
+    position: absolute;
+    top: 2872px;
+}
+#public2{
+    position: absolute;
+    font-size: 1.3rem;
+    top: 3005px;
+    margin-left: 130px;
+    text-align: right;
+    line-height: 25px;
+    color: white;
+    z-index: 1;
+    line-height: 32px;
+}
+#title5{
+    position: absolute;
+    top: 2920px;
+    font-size: 1.6rem;
+    margin-left: 90px;
+    color: white;
+    font-weight: bold;
+    text-align: right;
+    z-index: 1;
+}
